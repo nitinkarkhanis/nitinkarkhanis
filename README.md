@@ -1,4 +1,4 @@
-## Senior Directory of Data Guard Development @ Oracle Corporation.
+## Senior Director of Data Guard Development @ Oracle Corporation.
 
 <!--
 **nitinkarkhanis/nitinkarkhanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
